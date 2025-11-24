@@ -1,4 +1,4 @@
-<img width="1868" height="679" alt="Screenshot 2025-11-24 105019" src="https://github.com/user-attachments/assets/e00583e1-3544-4dac-9a4c-c627f06b7a47" />📊 Sales Analysis Dashboard – Excel Project
+📊 Sales Analysis Dashboard – Excel Project
         This project contains an interactive Sales Dashboard built in Microsoft Excel.
         It provides a complete view of business performance using PivotTables, Slicers, Timeline, and Charts.
 
